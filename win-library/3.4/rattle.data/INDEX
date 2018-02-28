@@ -1,0 +1,8 @@
+audit                   Sample dataset to illustrate Rattle
+                        functionality.
+weather                 Sample dataset of daily weather observations
+                        from Canberra airport in Australia.
+weatherAUS              Daily weather observations from multiple
+                        Australian weather stations.
+wine                    The wine dataset from the UCI Machine Learning
+                        Repository.

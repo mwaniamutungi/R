@@ -1,0 +1,16 @@
+rattle.data 1.0.2 2017-06-26 12:03:54 Graham.Williams@togaware.com
+
+  * Remove the weather.CSV file as it is quite large and takes the
+    package size over the prefered 5MB for CRAN. The weatherAUS.RData
+    file remains, and include a pointer to the CSV version on
+    Togaware.
+
+rattle.data 1.0.1 2017-06-24 21:09:44 Graham.Williams@togaware.com
+
+  * Remove XDF folder and dataset. Don't include proprietary formatted
+    data in the open source dataset pacakge. Instead the weatherAUS
+    dataset is included as a CSV file.
+
+rattle.data 1.0.0 2017-06-24 12:43:33 Graham.Williams@togaware.com
+
+  * Initial release.
